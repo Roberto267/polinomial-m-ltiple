@@ -1,1 +1,0 @@
-# polinomial-m-ltiple
